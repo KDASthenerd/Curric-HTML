@@ -1,6 +1,6 @@
 body {
 	font-family: sans-serif;
-	line-height: 150%;
+	line-height: 4.5vw;
 	background-color: #eee;
 }
 
@@ -25,4 +25,5 @@ a {
 
 p {
 	margin-left: 40px;
+	font-size: 3vw;
 }
