@@ -27,7 +27,7 @@ p {
 	margin-left: 40px;
 }
 
-@media screen and (max-width: 20cm) {
+@media screen and (max-width: 10cm) {
 	body {
 		line-height: 4.5vw !important;
 	}
